@@ -2,6 +2,18 @@ http://tracker.opentrackr.org:1337/announce
 
 http://www.torrentsnipe.info:2701/announce
 
+http://tracker.zupix.online:2710/announce
+
+http://tracker.zupix.online:1337/announce
+
+http://tracker.zupix.online:1333/announce
+
+http://tracker.zupix.online:8000/announce
+
+http://tracker.zupix.online:6969/announce
+
+http://zupix.online:6969/announce
+
 http://www.genesis-sp.org:2710/announce
 
 http://wepzone.net:6969/announce
